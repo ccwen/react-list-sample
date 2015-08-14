@@ -1,0 +1,1 @@
+browserify --bare -r idioms > idioms.js
